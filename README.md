@@ -80,7 +80,4 @@ All orchestrated with **QEMU/KVM** and **Virt-Manager**.
 - 💼 **LinkedIn:** *(Add your link here if you have one)*
 - 🐦 **Twitter/X:** *(Optional)*
 
-> _"The best way to learn is to break things and then figure out how to fix them."_  
-> — Every SysAdmin ever
-
 ---
