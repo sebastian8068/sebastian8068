@@ -77,7 +77,5 @@ All orchestrated with **QEMU/KVM** and **Virt-Manager**.
 ### 🤝 Let's Connect
 
 - 📧 **Email:** [sebastianunda.8068@gmail.com](mailto:sebastianunda.8068@gmail.com)
-- 💼 **LinkedIn:** *(Add your link here if you have one)*
-- 🐦 **Twitter/X:** *(Optional)*
 
 ---
