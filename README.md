@@ -56,7 +56,6 @@ Right now, I'm diving deep into professional certifications while building hands
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---
