@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a telematic engineering student passionate about **system administration** and **backend development**. I feel most comfortable working close to the server: managing databases, writing efficient Python code, and understanding how operating systems behave under the hood.
+I'm a telematic engineering student passionate about **system administration** and **backend development**. I feel most comfortable working close to the server: managing databases, writing Python code, and understanding how operating systems behave under the hood.
 
 Right now, I'm diving deep into professional certifications while building hands-on projects with virtualized environments.
 
@@ -48,21 +48,16 @@ Right now, I'm diving deep into professional certifications while building hands
 ![SSH](https://img.shields.io/badge/SSH-231F20?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 **My Daily Drivers**  
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![LazyGit](https://img.shields.io/badge/LazyGit-FA7343?style=for-the-badge&logo=git&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white, )](https://github.com/NvChad/NvChad)
+[![LazyGit](https://img.shields.io/badge/LazyGit-FA7343?style=for-the-badge&logo=git&logoColor=white)](https://github.com/jesseduffield/lazygit)
+[![OpenCode](https://img.shields.io/badge/OpenCode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=white)](github.com/opencode-ai/opencode)
 
 ---
 
-### 🐧 Operating Systems I Love
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
 
-I'm a bit obsessed with operating systems. My homelab consists of several virtual machines I use for testing and learning:
-
-- **Rocky Linux** – for server environments (RHCSA prep)  
-- **Debian** – for stability and everyday use  
-- **Arch Linux** – for staying close to the bleeding edge  
-
-All orchestrated with **QEMU/KVM** and **Virt-Manager**.
+<!--END_SECTION:activity-->
 
 ---
 
