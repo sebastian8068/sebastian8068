@@ -13,13 +13,12 @@
 
 I'm a telematic engineering student passionate about **system administration** and **backend development**. I feel most comfortable working close to the server: managing databases, writing Python code, and understanding how operating systems behave under the hood.
 
-Right now, I'm diving deep into professional certifications while building hands-on projects with virtualized environments.
+Right now, I'm diving deep into studying for certifications while building hands-on projects with virtualized environments.
 
 - 🔭 **I’m currently working on:** A personal project using **Rocky Linux** and **MariaDB** inside a QEMU/KVM virtual machine (the repo is coming soon!).
-- 🌱 **I’m currently learning:**  
-  - Git & GitHub (Platzi course)  
+- 🌱 **I’m currently learning:**    
   - Unit Testing in Python  
-  - RHCSA (Red Hat Certified System Administrator) curriculum  
+  - RHCSA (Red Hat Certified System Administrator)  
 - 🎯 **Next certifications:** CCNA (Cisco) and RHCSA (Red Hat)
 
 ---
@@ -50,7 +49,7 @@ Right now, I'm diving deep into professional certifications while building hands
 **My Daily Drivers**  
 [![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white, )](https://github.com/NvChad/NvChad)
 [![LazyGit](https://img.shields.io/badge/LazyGit-FA7343?style=for-the-badge&logo=git&logoColor=white)](https://github.com/jesseduffield/lazygit)
-[![OpenCode](https://img.shields.io/badge/OpenCode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=white)](github.com/opencode-ai/opencode)
+[![OpenCode](https://img.shields.io/badge/OpenCode-2C2C32?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/anomalyco/opencode/)
 
 ---
 
