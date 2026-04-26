@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -16,7 +16,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: "Specify a custom commit message"
+          COMMIT_MSG: "Update recent activity"
           MAX_LINES: 10
           COMMIT_NAME: GitHub Activity Readme
           COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
+          FILTER_EVENTS: PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,WatchEvent,ForkEvent
