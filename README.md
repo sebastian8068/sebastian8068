@@ -55,16 +55,16 @@ Right now, I'm diving deep into studying for certifications while building hands
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/sebastian8068/mySecondRepo/issues/6) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-2. 🎉 Merged PR [#8](https://github.com/sebastian8068/mySecondRepo/pull/8) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-3. 💪 Opened PR [#8](https://github.com/sebastian8068/mySecondRepo/pull/8) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-4. 🔓 Reopened issue [#6](https://github.com/sebastian8068/mySecondRepo/issues/6) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-5. 🔒 Closed issue [#6](https://github.com/sebastian8068/mySecondRepo/issues/6) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-6. 🔒 Closed issue [#5](https://github.com/sebastian8068/mySecondRepo/issues/5) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-7. 🔓 Reopened issue [#4](https://github.com/sebastian8068/mySecondRepo/issues/4) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-8. 🔒 Closed issue [#4](https://github.com/sebastian8068/mySecondRepo/issues/4) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-9. ❗ Opened issue [#7](https://github.com/sebastian8068/mySecondRepo/issues/7) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
-10. ❗ Opened issue [#6](https://github.com/sebastian8068/mySecondRepo/issues/6) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+1. 🚀 Published release [v0.1.0](https://github.com/sebastian8068/myThirdRepo/releases/tag/v0.1.0) in [sebastian8068/myThirdRepo](https://github.com/sebastian8068/myThirdRepo)
+2. 🎉 Merged PR [#11](https://github.com/sebastian8068/mySecondRepo/pull/11) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+3. 💪 Opened PR [#11](https://github.com/sebastian8068/mySecondRepo/pull/11) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+4. 🎉 Merged PR [#10](https://github.com/sebastian8068/mySecondRepo/pull/10) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+5. 💪 Opened PR [#10](https://github.com/sebastian8068/mySecondRepo/pull/10) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+6. 🔒 Closed issue [#6](https://github.com/sebastian8068/mySecondRepo/issues/6) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+7. 🎉 Merged PR [#8](https://github.com/sebastian8068/mySecondRepo/pull/8) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+8. 💪 Opened PR [#8](https://github.com/sebastian8068/mySecondRepo/pull/8) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+9. 🔓 Reopened issue [#6](https://github.com/sebastian8068/mySecondRepo/issues/6) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
+10. 🔒 Closed issue [#6](https://github.com/sebastian8068/mySecondRepo/issues/6) in [sebastian8068/mySecondRepo](https://github.com/sebastian8068/mySecondRepo)
 <!--END_SECTION:activity-->
 
 ---
