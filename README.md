@@ -1,29 +1,30 @@
-# Hi there, I'm Sebastián Unda 👋
+# Hi there, I'm Sebastián Unda :wave:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9AFE&width=435&lines=Telematic+Engineering+Student;Aspiring+SysAdmin+%7C+Backend+Dev;RHCSA+%26+CCNA+in+progress;Python+%7C+SQL+%7C+Linux+Enthusiast)](https://git.io/typing-svg)
 
-📍 **Lara, Venezuela**  
-🎓 **Telematic Engineering Student**  
-📧 sebastianunda.8068@gmail.com  
-📚 [My Platzi Profile](https://platzi.com/p/unda/)
+:round_pushpin: **Lara, Venezuela**  
+:school: **Universidad Centroccidental Lisandro Alvarado**
+:mortar_board: **Telematic Engineering Student**  
+:email: sebastianunda.8068@gmail.com  
+:books: [My Platzi Profile](https://platzi.com/p/unda/)
 
 ---
 
-### 🧑‍💻 About Me
+### :technologist: About Me
 
 I'm a telematic engineering student passionate about **system administration** and **backend development**. I feel most comfortable working close to the server: managing databases, writing Python code, and understanding how operating systems behave under the hood.
 
 Right now, I'm diving deep into studying for certifications while building hands-on projects with virtualized environments.
 
-- 🔭 **I’m currently working on:** A personal project using **Rocky Linux** and **MariaDB** inside a QEMU/KVM virtual machine (the repo is coming soon!).
-- 🌱 **I’m currently learning:**    
+- :telescope: **I’m currently working on:** A personal project using **Rocky Linux** and **MariaDB** inside a QEMU/KVM virtual machine (the repo is coming soon!).
+- :seedling: **I’m currently learning:**    
   - Unit Testing in Python  
   - RHCSA (Red Hat Certified System Administrator)  
-- 🎯 **Next certifications:** CCNA (Cisco) and RHCSA (Red Hat)
+- :dart: **Next certifications:** CCNA (Cisco) and RHCSA (Red Hat)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### :hammer_and_pick: Tech Stack & Tools
 
 **Languages & Scripting**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -69,7 +70,7 @@ Right now, I'm diving deep into studying for certifications while building hands
 
 ---
 
-### 📈 GitHub Stats
+### :chart_with_upwards_trend: GitHub Stats
 
 [![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian8068&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/sebastian8068)
 
@@ -77,8 +78,8 @@ Right now, I'm diving deep into studying for certifications while building hands
 
 ---
 
-### 🤝 Let's Connect
+### :handshake: Let's Connect
 
-- 📧 **Email:** [sebastianunda.8068@gmail.com](mailto:sebastianunda.8068@gmail.com)
+- :email: **Email:** [sebastianunda.8068@gmail.com](mailto:sebastianunda.8068@gmail.com)
 
 ---
