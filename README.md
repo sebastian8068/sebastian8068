@@ -72,9 +72,7 @@ Right now, I'm diving deep into studying for certifications while building hands
 
 ### :chart_with_upwards_trend: GitHub Stats
 
-[![Sebastián's GitHub stats](https://gh-stats.com/api?username=sebastian8068&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/sebastian8068)
-
-[![Top Langs](https://gh-stats.com/api/top-langs?username=sebastian8068&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sebastian8068)
+![sebastian8068](https://gh-stats.com/api/sebastian8068?theme=nord&widgets=name%2Cgrade%2Cimpact%2Cstreaks%2Ccollaborators%2Cfocus%2Clanguages%2Cachievements&grade.max_tags=6&impact.line_color=%2358a6ff&streaks.color=%2358a6ff&collaborators.max_count=5)
 
 ---
 
