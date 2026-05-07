@@ -72,9 +72,9 @@ Right now, I'm diving deep into studying for certifications while building hands
 
 ### :chart_with_upwards_trend: GitHub Stats
 
-[![Sebastián's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastian8068&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/sebastian8068)
+[![Sebastián's GitHub stats](https://gh-stats.com/api?username=sebastian8068&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/sebastian8068)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastian8068&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sebastian8068)
+[![Top Langs](https://gh-stats.com/api/top-langs/?username=sebastian8068&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/sebastian8068)
 
 ---
 
