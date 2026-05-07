@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9AFE&width=435&lines=Telematic+Engineering+Student;Aspiring+SysAdmin+%7C+Backend+Dev;RHCSA+%26+CCNA+in+progress;Python+%7C+SQL+%7C+Linux+Enthusiast)](https://git.io/typing-svg)
 
 :round_pushpin: **Lara, Venezuela**  
-:school: **Universidad Centroccidental Lisandro Alvarado**
+:school: **Universidad Centroccidental Lisandro Alvarado**  
 :mortar_board: **Telematic Engineering Student**  
 :email: sebastianunda.8068@gmail.com  
 :books: [My Platzi Profile](https://platzi.com/p/unda/)
