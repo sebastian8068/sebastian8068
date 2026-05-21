@@ -1,7 +1,7 @@
 name: Update README
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */30 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -12,13 +12,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - name: Update README with activity
-        uses: TheDanniCraft/activity-log@v1
-        with:
-          GITHUB_USERNAME: sebastian8068
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "Specify a custom commit message"
           MAX_LINES: 10
-          COMMIT_MSG: "Update recent activity"
-          FILTER_EVENTS: "PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,WatchEvent,ForkEvent"
-          COMMIT_NAME: "GitHub Activity Readme"
-          COMMIT_EMAIL: "github-actions[bot]@users.noreply.github.com"
+          COMMIT_NAME: GitHub Activity Readme
