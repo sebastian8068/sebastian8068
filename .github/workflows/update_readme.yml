@@ -12,12 +12,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update README with activity
+        uses: athul/update-readme@v2
         with:
-          COMMIT_MSG: "Update recent activity"
-          MAX_LINES: 10
-          COMMIT_NAME: GitHub Activity Readme
-          COMMIT_EMAIL: github-actions[bot]@users.noreply.github.com
-          FILTER_EVENTS: PushEvent,CreateEvent,IssueCommentEvent,IssuesEvent,PullRequestEvent,ReleaseEvent,WatchEvent,ForkEvent
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          username: sebastian8068
+          readme: README.md
+          max_lines: 10
+          commit_message: "Update recent activity"
+          commit_name: GitHub Activity Readme
+          commit_email: github-actions[bot]@users.noreply.github.com
