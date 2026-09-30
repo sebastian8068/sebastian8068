@@ -15,13 +15,9 @@
 
 I'm a telematic engineering student passionate about **system administration** and **backend development**. I feel most comfortable working close to the server: managing databases, writing Python code, and understanding how operating systems behave under the hood.
 
-Right now, I'm diving deep into studying for certifications while building hands-on projects with virtualized environments.
-
-- :telescope: **I’m currently working on:** A personal project using **Rocky Linux** and **MariaDB** inside a QEMU/KVM virtual machine (the repo is coming soon!).
 - :seedling: **I’m currently learning:**    
-  - Unit Testing in Python  
-  - RHCSA (Red Hat Certified System Administrator)  
-- :dart: **Next certifications:** CCNA (Cisco) and RHCSA (Red Hat)
+  - CCNA  
+- :dart: **Next certifications:** LPIC-1
 
 ---
 
